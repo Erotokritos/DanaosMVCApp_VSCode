@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/DanaosMVCApp/css/style.0depoqrh6n.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0depoqrh6n"},{"Name":"integrity","Value":"sha256-9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs="},{"Name":"label","Value":"_content/DanaosMVCApp/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"752"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 18:44:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DanaosMVCApp/css/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"752"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 04 May 2025 18:44:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

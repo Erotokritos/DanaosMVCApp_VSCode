@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Student Grades";
+}
+<link rel="stylesheet" href="~/css/style.css" />
+<h2>Student Grades</h2>
+<button id="loadData">Load Grades</button>
+<table id="gradesTable" border="1">
+    <thead><tr><th>Name</th><th>Average</th></tr></thead>
+    <tbody></tbody>
+</table>
+<button id="exportXlsx">Export to XLSX</button>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<script>
+    $('#loadData').click(function() {
+        $.get('/Home/GetStudentAverages', function(data) {
+            var tbody = $('#gradesTable tbody');
+            tbody.empty();
+            data.forEach(function(row) {
+                tbody.append('<tr><td>' + row.name + '</td><td>' + row.average.toFixed(2) + '</td></tr>');
+            });
+        });
+    });
+
+    $('#exportXlsx').click(function () {
+        var table = document.getElementById('gradesTable');
+        if (!table) {
+            alert("Table not found!");
+            return;
+        }
+
+        var wb = XLSX.utils.table_to_book(table, { sheet: "Grades" });
+        XLSX.writeFile(wb, "grades.xlsx");
+    });
+</script>

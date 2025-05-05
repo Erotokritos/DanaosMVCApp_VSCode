@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "J2WSdduQ88QrRWFsCuOvvromEsKZhY3wW+Ks1sT27MQ=",
+  "Source": "DanaosMVCApp",
+  "BasePath": "_content/DanaosMVCApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DanaosMVCApp\\wwwroot",
+      "Source": "DanaosMVCApp",
+      "ContentRoot": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\wwwroot\\",
+      "BasePath": "_content/DanaosMVCApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\obj\\Debug\\net9.0\\compressed\\qp0mp99at1-0depoqrh6n.gz",
+      "SourceId": "DanaosMVCApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DanaosMVCApp",
+      "RelativePath": "css/style#[.{fingerprint=0depoqrh6n}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vfrpozxxwb",
+      "Integrity": "1dR+4Ngb2V+bqYqED6qkQCCSrplZJgajJVypPxiImzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\wwwroot\\css\\style.css",
+      "SourceId": "DanaosMVCApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\wwwroot\\",
+      "BasePath": "_content/DanaosMVCApp",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0depoqrh6n",
+      "Integrity": "9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.0depoqrh6n.css",
+      "AssetFile": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\obj\\Debug\\net9.0\\compressed\\qp0mp99at1-0depoqrh6n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002857142857"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "349"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1dR+4Ngb2V+bqYqED6qkQCCSrplZJgajJVypPxiImzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0depoqrh6n"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.0depoqrh6n.css",
+      "AssetFile": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0depoqrh6n"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.0depoqrh6n.css.gz",
+      "AssetFile": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\obj\\Debug\\net9.0\\compressed\\qp0mp99at1-0depoqrh6n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "349"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1dR+4Ngb2V+bqYqED6qkQCCSrplZJgajJVypPxiImzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0depoqrh6n"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1dR+4Ngb2V+bqYqED6qkQCCSrplZJgajJVypPxiImzw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\obj\\Debug\\net9.0\\compressed\\qp0mp99at1-0depoqrh6n.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002857142857"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "349"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1dR+4Ngb2V+bqYqED6qkQCCSrplZJgajJVypPxiImzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "752"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MRI/eKDViRtdf0foWqnkbP6WMj3xvJ6GfIiTkhMoFs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\eroto\\OneDrive\\Documents\\Danaos Project\\DanaosMVCApp_VSCode\\obj\\Debug\\net9.0\\compressed\\qp0mp99at1-0depoqrh6n.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "349"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1dR+4Ngb2V+bqYqED6qkQCCSrplZJgajJVypPxiImzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 May 2025 18:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1dR+4Ngb2V+bqYqED6qkQCCSrplZJgajJVypPxiImzw="
+        }
+      ]
+    }
+  ]
+}

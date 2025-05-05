@@ -1,0 +1,8 @@
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.csproj.AssemblyReference.cache
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.AssemblyInfoInputs.cache
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.AssemblyInfo.cs
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.RazorAssemblyInfo.cache
+C:\Users\eroto\OneDrive\Documents\Danaos Project\DanaosMVCApp_VSCode\obj\Debug\net7.0\DanaosMVCApp.RazorAssemblyInfo.cs
